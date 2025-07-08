@@ -1,4 +1,4 @@
-package DSA.Leetcode;
+package DSA.Leetcode_Problems;
 import java.util.Scanner;
 
 public class Q151{
