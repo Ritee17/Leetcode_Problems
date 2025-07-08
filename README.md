@@ -1,2 +1,2 @@
 # Leetcode-problems
-This repo contains the solutions of all th problems that i have solved on Leetcode
+This repo contains the solutions of leetcode problems in java language .
