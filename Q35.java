@@ -1,8 +1,7 @@
 package DSA.Leetcode_Problems;
 
-public class q35 {
+public class Q35 {
     public int searchInsert(int[] nums, int target) {
-        int k =0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]>=target){
                 return i;

@@ -2,7 +2,7 @@ package DSA.Leetcode_Problems;
 
 import java.util.Stack;
 
-public class q20 {
+public class Q20 {
     public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
 

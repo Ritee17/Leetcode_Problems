@@ -1,6 +1,6 @@
 package DSA.Leetcode_Problems;
 
-public class q278 {
+public class Q278 {
     public int firstBadVersion(int n) {
         int low =1;
         int high = n;
