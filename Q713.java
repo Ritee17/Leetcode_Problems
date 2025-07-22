@@ -15,7 +15,7 @@ public class Q713 {
             //growing
             p = p* arr[ei];
             // shrinking
-            while(p>=k){
+            while(p>=k && si<=ei){
                 p = p/arr[si];
                 si++;
             }
