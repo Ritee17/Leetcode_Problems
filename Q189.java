@@ -20,6 +20,7 @@ public class Q189 {
             arr[j]=temp;
             i++;
             j--;
+            j++;
         }
     }
 
