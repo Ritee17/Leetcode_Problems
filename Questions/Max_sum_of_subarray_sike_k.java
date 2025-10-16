@@ -1,4 +1,4 @@
-package DSA.Ques;
+package DSA.Leetcode_Problems.Questions;
 import java.lang.Math;
 public class Max_sum_of_subarray_sike_k {
     public static void main(String[] args) {

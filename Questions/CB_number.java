@@ -1,10 +1,10 @@
-package DSA.String;
+package DSA.Leetcode_Problems.Questions;
 // Whats is CB number ?
 // 1) 0 and 1 are not CB
 // 2) 1,3,5,7,11,13,17,19,23,29 are CB numbers
 // 3) a number not divisible by the numbers in point 2 is a CB number
 // find the maximum number of CB number in a string 
-import java.lang.*;
+
 public class CB_number {
     public static void main(String[] args) {
         String str = "828192";

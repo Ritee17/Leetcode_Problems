@@ -1,4 +1,4 @@
-package DSA.String;
+package DSA.Leetcode_Problems.Questions;
 
 public class Palindrome {
     public static void main(String[] args) {

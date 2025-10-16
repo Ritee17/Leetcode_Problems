@@ -1,4 +1,4 @@
-package DSA.String;
+package DSA.Leetcode_Problems.Questions;
 import java.lang.Math;
 
 public class String_lexicographical {

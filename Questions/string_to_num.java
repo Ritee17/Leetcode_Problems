@@ -1,4 +1,4 @@
-package DSA.String;
+package DSA.Leetcode_Problems.Questions;
 
 public class string_to_num {
 

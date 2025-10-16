@@ -1,4 +1,4 @@
-package DSA.Ques;
+package DSA.Leetcode_Problems.Questions;
 import java.lang.Math;
 
 

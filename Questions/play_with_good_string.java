@@ -1,4 +1,4 @@
-package DSA.String;
+package DSA.Leetcode_Problems.Questions;
 import java.util.Scanner;
 import java.lang.Math;
 
