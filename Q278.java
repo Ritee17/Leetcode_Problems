@@ -17,4 +17,7 @@ public class Q278 {
         }
         return ans;
     }
+    public boolean isBadVersion(int version){
+        return true;
+    }
 }

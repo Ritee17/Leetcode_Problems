@@ -11,10 +11,10 @@ public class Q151{
     }
     public static String Reverse_words(String s){
         s = s.trim();
-        String[] arr = s.split("\s+");
+        String[] arr = s.split("\\s+");
         String ans = "";
         for(int i=arr.length-1 ; i>=0 ; i--){
-            ans + = arr[i]+ " ";
+            ans += arr[i]+ " ";
         }
         ans.trim();
         return ans;
